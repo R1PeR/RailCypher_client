@@ -17,9 +17,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
 .App-link {
   color: #61dafb;
+}
+.card{
+    paddingTop: 10px;
+    paddingBottom: 10px;
 }
 
 @keyframes App-logo-spin {
